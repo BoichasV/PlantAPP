@@ -1,0 +1,10 @@
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\bin\Debug\PlantAPP.exe.config
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\bin\Debug\PlantAPP.exe
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\bin\Debug\PlantAPP.pdb
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.csproj.AssemblyReference.cache
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.Form1.resources
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.Properties.Resources.resources
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.csproj.GenerateResource.cache
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.csproj.CoreCompileInputs.cache
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.exe
+C:\Users\varax\source\repos\PlantAPP\PlantAPP\obj\Debug\PlantAPP.pdb
